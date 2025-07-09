@@ -4,8 +4,7 @@ Uni duas coisas que amo, programação e corrida e criei essa calculadora que mo
 
 ## ✍️ Conteúdo abordado
 
-- Estruturas de repetição (for, while, do-while)
-- Condicionais (if, else, switch)
+- Condicionais (if, else)
 - Orientação a objetos
 - Leitura de dados com Scanner
 - Cursos utilizados para fazer o projeto: Curso de Java do *Canal Fessor Bruno* e Curso de POO do *Curso em Video*.
